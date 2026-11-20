@@ -16,8 +16,8 @@ for usage and the full list of actions, feedbacks, variables and presets.
 ## Development
 
 ```
-yarn install
-yarn build
+pnpm install
+pnpm build
 ```
 
 Point Companion at this folder as a developer module (Settings → Developer modules path).
