@@ -1,0 +1,2 @@
+# companion-module-build reads dependency licenses from a flat node_modules
+nodeLinker: hoisted
